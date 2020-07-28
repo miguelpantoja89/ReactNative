@@ -24,3 +24,12 @@ Voy a utilizar VisualStudioCode como IDE al cual le voy a añadir los siguientes
 
 Si quieres ver las cosas más chulas, más fancy: 
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+## Instalaciones:
+
+Para poder utilizar npm debemos instalar [Nodejs](https://nodejs.org/es/) , a continuación, como yo voy a utilizar Expo lanzaré el siguiente comando: <br>
+> npm install expo-cli --global 
+
+<br>
+
+Toda la documentación de [Expo](https://expo.io/learn).
